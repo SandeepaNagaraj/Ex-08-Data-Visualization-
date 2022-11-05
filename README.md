@@ -83,7 +83,8 @@ plt.show()
 plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
-# OUPUT
+# OUTPUT
+## DATA VISTUALISATION USING SEABORN:
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/41.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/42.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/44.png)
@@ -94,6 +95,7 @@ plt.show()
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/49.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/50.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/51.png)
+## Data Visualization Using MatPlotlib
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/52.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/53.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/54.png)
@@ -102,3 +104,5 @@ plt.show()
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/57.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/58.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/59.png)
+# RESULT:
+Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
