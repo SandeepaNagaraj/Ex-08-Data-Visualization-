@@ -86,7 +86,6 @@ plt.show()
 # OUPUT
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/41.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/42.png)
-![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/43.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/44.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/45.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/46.png)
