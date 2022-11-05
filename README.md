@@ -18,15 +18,15 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE
-``
+```
 import pandas as pd
 import numpy as np
 df=open('Superstore.csv', encoding='windows-1252')
 df = pd.read_csv("Superstore.csv",encoding='windows-1254')
 df.head()
-``
+```
 # DATA VISTUALISATION USING SEABORN:
-``
+```
 import seaborn as sns
 from matplotlib import pyplot as plt
 plt.figure(figsize=(8,5))
@@ -51,9 +51,9 @@ sns.countplot(x="Category",data=df)
 sns.countplot(x="Sub-Category",data=df)
 sns.histplot(data=df,x ='Ship Mode',hue='Sub-Category')
 sns.kdeplot(x="Profit", data = df,hue='Categor
-``
+```
 # Data Visualization Using MatPlotlib
-``
+```
 plt.plot(df['Category'], df['Sales'])
 plt.show()
 df.corr()
@@ -82,5 +82,5 @@ plt.scatter(df["Region"],df["Profit"], c ="blue")
 plt.show() 
 plt.boxplot(x="Sales",data=df)
 plt.show()
-``
+```
 # OUPUT
