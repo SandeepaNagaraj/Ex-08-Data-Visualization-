@@ -89,7 +89,7 @@ plt.show()
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/43.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/44.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/45.png)
-![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/46.png
+![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/46.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/47.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/48.png)
 ![o](https://github.com/SandeepaNagaraj/Ex-08-Data-Visualization-/blob/main/49.png)
